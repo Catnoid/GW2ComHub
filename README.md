@@ -1,4 +1,4 @@
-# GW2ComHub 5.X
+# GW2ComHub 5.x
 Worldboss &amp; Metainfusion Run for Guild Wars 2
 **Instructions:
 
