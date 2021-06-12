@@ -1,4 +1,4 @@
-# Cat8
+# ComHub 5.1
 Worldboss &amp; Metainfusion Run for Guild Wars 2
 **Instructions:
 
